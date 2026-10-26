@@ -1,2 +1,2 @@
 # devsecops-journal
-My DevSecOps learning journal
+My lab notebook for DevSecOps. One folder per phase.
